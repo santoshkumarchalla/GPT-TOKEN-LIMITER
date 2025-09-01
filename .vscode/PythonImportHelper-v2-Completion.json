@@ -1,0 +1,491 @@
+[
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "chunk_text",
+        "importPath": "src.splitter",
+        "description": "src.splitter",
+        "isExtraImport": true,
+        "detail": "src.splitter",
+        "documentation": {}
+    },
+    {
+        "label": "Embedder",
+        "importPath": "src.embedder",
+        "description": "src.embedder",
+        "isExtraImport": true,
+        "detail": "src.embedder",
+        "documentation": {}
+    },
+    {
+        "label": "Embedder",
+        "importPath": "src.embedder",
+        "description": "src.embedder",
+        "isExtraImport": true,
+        "detail": "src.embedder",
+        "documentation": {}
+    },
+    {
+        "label": "VectorStore",
+        "importPath": "src.store",
+        "description": "src.store",
+        "isExtraImport": true,
+        "detail": "src.store",
+        "documentation": {}
+    },
+    {
+        "label": "load_checkpoints",
+        "importPath": "src.store",
+        "description": "src.store",
+        "isExtraImport": true,
+        "detail": "src.store",
+        "documentation": {}
+    },
+    {
+        "label": "save_checkpoints",
+        "importPath": "src.store",
+        "description": "src.store",
+        "isExtraImport": true,
+        "detail": "src.store",
+        "documentation": {}
+    },
+    {
+        "label": "VectorStore",
+        "importPath": "src.store",
+        "description": "src.store",
+        "isExtraImport": true,
+        "detail": "src.store",
+        "documentation": {}
+    },
+    {
+        "label": "read_file",
+        "importPath": "src.utils",
+        "description": "src.utils",
+        "isExtraImport": true,
+        "detail": "src.utils",
+        "documentation": {}
+    },
+    {
+        "label": "estimate_tokens_by_chars",
+        "importPath": "src.utils",
+        "description": "src.utils",
+        "isExtraImport": true,
+        "detail": "src.utils",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "SentenceTransformer",
+        "importPath": "sentence_transformers",
+        "description": "sentence_transformers",
+        "isExtraImport": true,
+        "detail": "sentence_transformers",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "Retriever",
+        "importPath": "src.retriever",
+        "description": "src.retriever",
+        "isExtraImport": true,
+        "detail": "src.retriever",
+        "documentation": {}
+    },
+    {
+        "label": "iterative_summarize",
+        "importPath": "src.summarizer",
+        "description": "src.summarizer",
+        "isExtraImport": true,
+        "detail": "src.summarizer",
+        "documentation": {}
+    },
+    {
+        "label": "call_chatgpt",
+        "importPath": "src.summarizer",
+        "description": "src.summarizer",
+        "isExtraImport": true,
+        "detail": "src.summarizer",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "faiss",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "faiss",
+        "description": "faiss",
+        "detail": "faiss",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "openai",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "openai",
+        "description": "openai",
+        "detail": "openai",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "ceil",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "ingest",
+        "kind": 2,
+        "importPath": "src.app",
+        "description": "src.app",
+        "peekOfCode": "def ingest(file_path: str, doc_id: str, chunk_size: int = 2000, overlap: int = 200, batch_size: int = 64):\n    text = read_file(file_path)\n    chunks = chunk_text(text, chunk_size=chunk_size, overlap=overlap)\n    print(f\"Total chunks: {len(chunks)}\")\n    # Load checkpoints\n    checkpoints = load_checkpoints()\n    last_index = checkpoints.get(doc_id, -1)\n    start_index = last_index + 1\n    print(f\"Resuming from chunk index: {start_index}\")\n    embedder = Embedder()",
+        "detail": "src.app",
+        "documentation": {}
+    },
+    {
+        "label": "Embedder",
+        "kind": 6,
+        "importPath": "src.embedder",
+        "description": "src.embedder",
+        "peekOfCode": "class Embedder:\n    def __init__(self, model_name: str = \"all-MiniLM-L6-v2\"):\n        # Compact, fast, good for retrieval\n        self.model = SentenceTransformer(model_name)\n    def embed_texts(self, texts: List[str]) -> np.ndarray:\n        \"\"\"\n        Accepts list of strings, returns 2D numpy array of embeddings.\n        \"\"\"\n        embs = self.model.encode(texts, show_progress_bar=True, convert_to_numpy=True)\n        # Normalize",
+        "detail": "src.embedder",
+        "documentation": {}
+    },
+    {
+        "label": "build_context_text",
+        "kind": 2,
+        "importPath": "src.query",
+        "description": "src.query",
+        "peekOfCode": "def build_context_text(results):\n    # results: list of {score, doc_id, chunk_index, text}\n    # sort by score desc\n    results_sorted = sorted(results, key=lambda r: r['score'], reverse=True)\n    texts = []\n    for r in results_sorted:\n        header = f\"[doc:{r['doc_id']} chunk:{r['chunk_index']} score:{r['score']:.3f}]\"\n        texts.append(header + \"\\n\" + r['text'])\n    return texts\ndef query(query_str: str, topk: int = 8):",
+        "detail": "src.query",
+        "documentation": {}
+    },
+    {
+        "label": "query",
+        "kind": 2,
+        "importPath": "src.query",
+        "description": "src.query",
+        "peekOfCode": "def query(query_str: str, topk: int = 8):\n    embedder = Embedder()\n    dim = embedder.model.get_sentence_embedding_dimension()\n    store = VectorStore(dim=dim)\n    retriever = Retriever(store, embedder)\n    results = retriever.retrieve(query_str, top_k=topk)\n    if not results:\n        print(\"No matching chunks found.\")\n        return\n    # assemble context; first try directly",
+        "detail": "src.query",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_KEY",
+        "kind": 5,
+        "importPath": "src.query",
+        "description": "src.query",
+        "peekOfCode": "OPENAI_KEY = os.getenv(\"OPENAI_API_KEY\")\nMODEL = os.getenv(\"OPENAI_MODEL\", \"gpt-4o-mini\")\nMAX_CHAT_CONTEXT_TOKENS = int(os.getenv(\"MAX_CHAT_CONTEXT_TOKENS\", \"3500\"))\ndef build_context_text(results):\n    # results: list of {score, doc_id, chunk_index, text}\n    # sort by score desc\n    results_sorted = sorted(results, key=lambda r: r['score'], reverse=True)\n    texts = []\n    for r in results_sorted:\n        header = f\"[doc:{r['doc_id']} chunk:{r['chunk_index']} score:{r['score']:.3f}]\"",
+        "detail": "src.query",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL",
+        "kind": 5,
+        "importPath": "src.query",
+        "description": "src.query",
+        "peekOfCode": "MODEL = os.getenv(\"OPENAI_MODEL\", \"gpt-4o-mini\")\nMAX_CHAT_CONTEXT_TOKENS = int(os.getenv(\"MAX_CHAT_CONTEXT_TOKENS\", \"3500\"))\ndef build_context_text(results):\n    # results: list of {score, doc_id, chunk_index, text}\n    # sort by score desc\n    results_sorted = sorted(results, key=lambda r: r['score'], reverse=True)\n    texts = []\n    for r in results_sorted:\n        header = f\"[doc:{r['doc_id']} chunk:{r['chunk_index']} score:{r['score']:.3f}]\"\n        texts.append(header + \"\\n\" + r['text'])",
+        "detail": "src.query",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_CHAT_CONTEXT_TOKENS",
+        "kind": 5,
+        "importPath": "src.query",
+        "description": "src.query",
+        "peekOfCode": "MAX_CHAT_CONTEXT_TOKENS = int(os.getenv(\"MAX_CHAT_CONTEXT_TOKENS\", \"3500\"))\ndef build_context_text(results):\n    # results: list of {score, doc_id, chunk_index, text}\n    # sort by score desc\n    results_sorted = sorted(results, key=lambda r: r['score'], reverse=True)\n    texts = []\n    for r in results_sorted:\n        header = f\"[doc:{r['doc_id']} chunk:{r['chunk_index']} score:{r['score']:.3f}]\"\n        texts.append(header + \"\\n\" + r['text'])\n    return texts",
+        "detail": "src.query",
+        "documentation": {}
+    },
+    {
+        "label": "chunk_text",
+        "kind": 2,
+        "importPath": "src.splitter",
+        "description": "src.splitter",
+        "peekOfCode": "def chunk_text(text: str, chunk_size: int = 2000, overlap: int = 200) -> List[str]:\n    \"\"\"\n    Simple, robust chunker based on characters with sentence boundaries preference.\n    chunk_size and overlap are measured in characters (not tokens) for portability.\n    \"\"\"\n    # Normalize whitespace\n    text = re.sub(r'\\s+', ' ', text).strip()\n    if len(text) <= chunk_size:\n        return [text]\n    chunks = []",
+        "detail": "src.splitter",
+        "documentation": {}
+    },
+    {
+        "label": "VectorStore",
+        "kind": 6,
+        "importPath": "src.store",
+        "description": "src.store",
+        "peekOfCode": "class VectorStore:\n    def __init__(self, dim: int):\n        self.dim = dim\n        self.index = None\n        self._load_or_init_index()\n        self._init_meta_db()\n    def _init_meta_db(self):\n        self.conn = sqlite3.connect(META_DB)\n        cur = self.conn.cursor()\n        cur.execute('''",
+        "detail": "src.store",
+        "documentation": {}
+    },
+    {
+        "label": "load_checkpoints",
+        "kind": 2,
+        "importPath": "src.store",
+        "description": "src.store",
+        "peekOfCode": "def load_checkpoints():\n    if os.path.exists(CHECKPOINT_FILE):\n        with open(CHECKPOINT_FILE, 'r', encoding='utf-8') as f:\n            return json.load(f)\n    return {}\ndef save_checkpoints(obj):\n    with open(CHECKPOINT_FILE, 'w', encoding='utf-8') as f:\n        json.dump(obj, f, indent=2)",
+        "detail": "src.store",
+        "documentation": {}
+    },
+    {
+        "label": "save_checkpoints",
+        "kind": 2,
+        "importPath": "src.store",
+        "description": "src.store",
+        "peekOfCode": "def save_checkpoints(obj):\n    with open(CHECKPOINT_FILE, 'w', encoding='utf-8') as f:\n        json.dump(obj, f, indent=2)",
+        "detail": "src.store",
+        "documentation": {}
+    },
+    {
+        "label": "DATA_DIR",
+        "kind": 5,
+        "importPath": "src.store",
+        "description": "src.store",
+        "peekOfCode": "DATA_DIR = os.path.join(os.path.dirname(__file__), '..', 'data')\nos.makedirs(DATA_DIR, exist_ok=True)\nCHECKPOINT_FILE = os.path.join(DATA_DIR, 'checkpoints.json')\nMETA_DB = os.path.join(DATA_DIR, 'metadata.db')\nINDEX_FILE = os.path.join(DATA_DIR, 'faiss.index')\nclass VectorStore:\n    def __init__(self, dim: int):\n        self.dim = dim\n        self.index = None\n        self._load_or_init_index()",
+        "detail": "src.store",
+        "documentation": {}
+    },
+    {
+        "label": "CHECKPOINT_FILE",
+        "kind": 5,
+        "importPath": "src.store",
+        "description": "src.store",
+        "peekOfCode": "CHECKPOINT_FILE = os.path.join(DATA_DIR, 'checkpoints.json')\nMETA_DB = os.path.join(DATA_DIR, 'metadata.db')\nINDEX_FILE = os.path.join(DATA_DIR, 'faiss.index')\nclass VectorStore:\n    def __init__(self, dim: int):\n        self.dim = dim\n        self.index = None\n        self._load_or_init_index()\n        self._init_meta_db()\n    def _init_meta_db(self):",
+        "detail": "src.store",
+        "documentation": {}
+    },
+    {
+        "label": "META_DB",
+        "kind": 5,
+        "importPath": "src.store",
+        "description": "src.store",
+        "peekOfCode": "META_DB = os.path.join(DATA_DIR, 'metadata.db')\nINDEX_FILE = os.path.join(DATA_DIR, 'faiss.index')\nclass VectorStore:\n    def __init__(self, dim: int):\n        self.dim = dim\n        self.index = None\n        self._load_or_init_index()\n        self._init_meta_db()\n    def _init_meta_db(self):\n        self.conn = sqlite3.connect(META_DB)",
+        "detail": "src.store",
+        "documentation": {}
+    },
+    {
+        "label": "INDEX_FILE",
+        "kind": 5,
+        "importPath": "src.store",
+        "description": "src.store",
+        "peekOfCode": "INDEX_FILE = os.path.join(DATA_DIR, 'faiss.index')\nclass VectorStore:\n    def __init__(self, dim: int):\n        self.dim = dim\n        self.index = None\n        self._load_or_init_index()\n        self._init_meta_db()\n    def _init_meta_db(self):\n        self.conn = sqlite3.connect(META_DB)\n        cur = self.conn.cursor()",
+        "detail": "src.store",
+        "documentation": {}
+    },
+    {
+        "label": "call_chatgpt",
+        "kind": 2,
+        "importPath": "src.summarizer",
+        "description": "src.summarizer",
+        "peekOfCode": "def call_chatgpt(system: str, user: str, model: str = MODEL, max_tokens: int = 1024):\n    \"\"\"\n    Simple wrapper for ChatCompletions (chat completion usage).\n    \"\"\"\n    resp = openai.ChatCompletion.create(\n        model=model,\n        messages=[\n            {\"role\": \"system\", \"content\": system},\n            {\"role\": \"user\", \"content\": user}\n        ],",
+        "detail": "src.summarizer",
+        "documentation": {}
+    },
+    {
+        "label": "iterative_summarize",
+        "kind": 2,
+        "importPath": "src.summarizer",
+        "description": "src.summarizer",
+        "peekOfCode": "def iterative_summarize(chunks: List[str], target_token_budget: int = 2000) -> str:\n    \"\"\"\n    Iteratively reduce chunks to a single summary that fits into target_token_budget.\n    Strategy:\n        - Group chunks into batches that, when summarized, reduce number of chunks.\n        - Keep summarizing until we have a single block.\n    \"\"\"\n    # conservative: assume ~4 chars per token => tokens ≈ chars/4\n    def approx_tokens(s: str):\n        return max(1, int(len(s) / 4))",
+        "detail": "src.summarizer",
+        "documentation": {}
+    },
+    {
+        "label": "OPENAI_KEY",
+        "kind": 5,
+        "importPath": "src.summarizer",
+        "description": "src.summarizer",
+        "peekOfCode": "OPENAI_KEY = os.getenv(\"OPENAI_API_KEY\")\nMODEL = os.getenv(\"OPENAI_MODEL\", \"gpt-4o-mini\")\nMAX_CHAT_CONTEXT_TOKENS = int(os.getenv(\"MAX_CHAT_CONTEXT_TOKENS\", \"3500\"))\nopenai.api_key = OPENAI_KEY\ndef call_chatgpt(system: str, user: str, model: str = MODEL, max_tokens: int = 1024):\n    \"\"\"\n    Simple wrapper for ChatCompletions (chat completion usage).\n    \"\"\"\n    resp = openai.ChatCompletion.create(\n        model=model,",
+        "detail": "src.summarizer",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL",
+        "kind": 5,
+        "importPath": "src.summarizer",
+        "description": "src.summarizer",
+        "peekOfCode": "MODEL = os.getenv(\"OPENAI_MODEL\", \"gpt-4o-mini\")\nMAX_CHAT_CONTEXT_TOKENS = int(os.getenv(\"MAX_CHAT_CONTEXT_TOKENS\", \"3500\"))\nopenai.api_key = OPENAI_KEY\ndef call_chatgpt(system: str, user: str, model: str = MODEL, max_tokens: int = 1024):\n    \"\"\"\n    Simple wrapper for ChatCompletions (chat completion usage).\n    \"\"\"\n    resp = openai.ChatCompletion.create(\n        model=model,\n        messages=[",
+        "detail": "src.summarizer",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_CHAT_CONTEXT_TOKENS",
+        "kind": 5,
+        "importPath": "src.summarizer",
+        "description": "src.summarizer",
+        "peekOfCode": "MAX_CHAT_CONTEXT_TOKENS = int(os.getenv(\"MAX_CHAT_CONTEXT_TOKENS\", \"3500\"))\nopenai.api_key = OPENAI_KEY\ndef call_chatgpt(system: str, user: str, model: str = MODEL, max_tokens: int = 1024):\n    \"\"\"\n    Simple wrapper for ChatCompletions (chat completion usage).\n    \"\"\"\n    resp = openai.ChatCompletion.create(\n        model=model,\n        messages=[\n            {\"role\": \"system\", \"content\": system},",
+        "detail": "src.summarizer",
+        "documentation": {}
+    },
+    {
+        "label": "openai.api_key",
+        "kind": 5,
+        "importPath": "src.summarizer",
+        "description": "src.summarizer",
+        "peekOfCode": "openai.api_key = OPENAI_KEY\ndef call_chatgpt(system: str, user: str, model: str = MODEL, max_tokens: int = 1024):\n    \"\"\"\n    Simple wrapper for ChatCompletions (chat completion usage).\n    \"\"\"\n    resp = openai.ChatCompletion.create(\n        model=model,\n        messages=[\n            {\"role\": \"system\", \"content\": system},\n            {\"role\": \"user\", \"content\": user}",
+        "detail": "src.summarizer",
+        "documentation": {}
+    },
+    {
+        "label": "read_file",
+        "kind": 2,
+        "importPath": "src.utils",
+        "description": "src.utils",
+        "peekOfCode": "def read_file(path):\n    with open(path, 'r', encoding='utf-8') as f:\n        return f.read()\ndef estimate_tokens_by_chars(text: str) -> int:\n    # rough heuristic: 4 chars per token\n    return max(1, int(len(text) / 4))\ndef ensure_dir(path):\n    os.makedirs(path, exist_ok=True)",
+        "detail": "src.utils",
+        "documentation": {}
+    },
+    {
+        "label": "estimate_tokens_by_chars",
+        "kind": 2,
+        "importPath": "src.utils",
+        "description": "src.utils",
+        "peekOfCode": "def estimate_tokens_by_chars(text: str) -> int:\n    # rough heuristic: 4 chars per token\n    return max(1, int(len(text) / 4))\ndef ensure_dir(path):\n    os.makedirs(path, exist_ok=True)",
+        "detail": "src.utils",
+        "documentation": {}
+    },
+    {
+        "label": "ensure_dir",
+        "kind": 2,
+        "importPath": "src.utils",
+        "description": "src.utils",
+        "peekOfCode": "def ensure_dir(path):\n    os.makedirs(path, exist_ok=True)",
+        "detail": "src.utils",
+        "documentation": {}
+    }
+]

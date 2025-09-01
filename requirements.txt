@@ -1,0 +1,10 @@
+numpy
+faiss-cpu
+sentence-transformers
+openai
+python-dotenv
+tqdm
+sqlite-utils
+requests
+
+tiktoken; extra == "tiktoken"
